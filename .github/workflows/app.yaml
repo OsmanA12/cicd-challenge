@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
     build:
-        runs-on: ubuntu latetst
+        runs-on: ubuntu-latetst
 
         steps:
         - name: checkout code
